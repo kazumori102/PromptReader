@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrompReader", "PrompReader.csproj", "{4E71A207-3CC0-46D7-A511-DF8CEA914B3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E71A207-3CC0-46D7-A511-DF8CEA914B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E71A207-3CC0-46D7-A511-DF8CEA914B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E71A207-3CC0-46D7-A511-DF8CEA914B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E71A207-3CC0-46D7-A511-DF8CEA914B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A29DA8F2-C057-44C6-BD41-18DB596C28C0}
+	EndGlobalSection
+EndGlobal
